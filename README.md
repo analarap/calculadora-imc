@@ -31,5 +31,3 @@ Este projeto foi desenvolvido como uma demonstração simples de CRUD (Create, R
 ## Autor
 
 Analuztx
-
-## Licença
